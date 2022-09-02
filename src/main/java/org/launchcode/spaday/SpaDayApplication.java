@@ -10,5 +10,4 @@ public class SpaDayApplication {
 		SpringApplication.run(SpaDayApplication.class, args);
 	}
 
-
 }
